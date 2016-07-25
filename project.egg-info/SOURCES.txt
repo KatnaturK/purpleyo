@@ -1,0 +1,12 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+purpleyo/__init__.py
+purpleyo/items.py
+purpleyo/pipelines.py
+purpleyo/settings.py
+purpleyo/spiders/__init__.py
+purpleyo/spiders/purpleyoSpider.py
